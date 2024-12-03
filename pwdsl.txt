@@ -1,0 +1,2 @@
+vless://4b75a9dd-66a8-4495-9a9d-8627a88a9766@pwdsl.pages.dev:443?encryption=none&security=tls&sni=pwdsl.pages.dev&fp=randomized&type=ws&host=pwdsl.pages.dev&path=%2F%3Fed%3D2048#pwdsl.pages.dev
+vless://3971fb7d-a60e-4f5e-8e2f-d5f401dbcb76@voxine.voxine7974.workers.dev:443?encryption=none&security=tls&sni=voxine.voxine7974.workers.dev&fp=randomized&type=ws&host=voxine.voxine7974.workers.dev&path=%2F%3Fed%3D2048#voxine.voxine7974.workers.dev

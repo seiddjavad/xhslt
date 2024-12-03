@@ -1,0 +1,2 @@
+vless://6c1eb5d5-2fea-42cd-a566-aa780ef78ec8@kewawod.pages.dev:443?encryption=none&security=tls&sni=kewawod.pages.dev&fp=randomized&type=ws&host=kewawod.pages.dev&path=%2F%3Fed%3D2048#kewawod.pages.dev
+vless://3971fb7d-a60e-4f5e-8e2f-d5f401dbcb76@voxine.voxine7974.workers.dev:443?encryption=none&security=tls&sni=voxine.voxine7974.workers.dev&fp=randomized&type=ws&host=voxine.voxine7974.workers.dev&path=%2F%3Fed%3D2048#voxine.voxine7974.workers.dev

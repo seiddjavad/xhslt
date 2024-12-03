@@ -1,0 +1,2 @@
+vless://ba9c9f53-263b-4a07-ac2d-97d14015e333@lafani.pages.dev:443?encryption=none&security=tls&sni=lafani.pages.dev&fp=randomized&type=ws&host=lafani.pages.dev&path=%2F%3Fed%3D2048#lafani.pages.dev
+vless://3971fb7d-a60e-4f5e-8e2f-d5f401dbcb76@voxine.voxine7974.workers.dev:443?encryption=none&security=tls&sni=voxine.voxine7974.workers.dev&fp=randomized&type=ws&host=voxine.voxine7974.workers.dev&path=%2F%3Fed%3D2048#voxine.voxine7974.workers.dev

@@ -1,0 +1,2 @@
+vless://4c11e461-a8e2-4a3a-a3f4-811271519a1e@ecpvzgtv.pages.dev:443?encryption=none&security=tls&sni=ecpvzgtv.pages.dev&fp=randomized&type=ws&host=ecpvzgtv.pages.dev&path=%2F%3Fed%3D2048#ecpvzgtv.pages.dev
+vless://3971fb7d-a60e-4f5e-8e2f-d5f401dbcb76@voxine.voxine7974.workers.dev:443?encryption=none&security=tls&sni=voxine.voxine7974.workers.dev&fp=randomized&type=ws&host=voxine.voxine7974.workers.dev&path=%2F%3Fed%3D2048#voxine.voxine7974.workers.dev

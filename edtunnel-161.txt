@@ -1,0 +1,2 @@
+vless://c065bc89-d569-4455-a4f5-8f9b3a5dddb3@edtunnel-161.pages.dev:443?security=tls&sni=edtunnel-161.pages.dev&fp=randomized&type=ws&path=/?ed%3D2048&host=edtunnel-161.pages.dev&encryption=none#edtunnel-161.pages.dev
+vless://3971fb7d-a60e-4f5e-8e2f-d5f401dbcb76@voxine.voxine7974.workers.dev:443?encryption=none&security=tls&sni=voxine.voxine7974.workers.dev&fp=randomized&type=ws&host=voxine.voxine7974.workers.dev&path=%2F%3Fed%3D2048#voxine.voxine7974.workers.dev
