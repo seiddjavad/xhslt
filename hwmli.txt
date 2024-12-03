@@ -1,3 +1,5 @@
+vless://4310ee39-a07c-4634-83b7-8380b84215fb@round-sea-058c.cabow21904.workers.dev:443?encryption=none&security=tls&sni=round-sea-058c.cabow21904.workers.dev&fp=randomized&type=ws&host=round-sea-058c.cabow21904.workers.dev&path=%2F%3Fed%3D2048#round-sea-058c.cabow21904.workers.dev
+vless://3971fb7d-a60e-4f5e-8e2f-d5f401dbcb76@voxine.voxine7974.workers.dev:443?encryption=none&security=tls&sni=voxine.voxine7974.workers.dev&fp=randomized&type=ws&host=voxine.voxine7974.workers.dev&path=%2F%3Fed%3D2048#voxine.voxine7974.workers.dev
 vless://2b682b83-2383-4595-b5f9-135a917c9c2e@hwmli.pages.dev:443?encryption=none&security=tls&sni=hwmli.pages.dev&fp=randomized&type=ws&host=hwmli.pages.dev&path=%2F%3Fed%3D2048#hwmli.pages.dev
 vless://ca8762d6-d823-46ee-ab90-f8e962d096f9@woxoda.pages.dev:443?encryption=none&security=tls&sni=woxoda.pages.dev&fp=randomized&type=ws&host=woxoda.pages.dev&path=%2F%3Fed%3D2048#woxoda.pages.dev
-vless://3971fb7d-a60e-4f5e-8e2f-d5f401dbcb76@voxine.voxine7974.workers.dev:443?encryption=none&security=tls&sni=voxine.voxine7974.workers.dev&fp=randomized&type=ws&host=voxine.voxine7974.workers.dev&path=%2F%3Fed%3D2048#voxine.voxine7974.workers.dev
+
