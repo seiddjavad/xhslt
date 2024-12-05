@@ -1,2 +1,2 @@
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@horikawa.pages.dev:443?encryption=none&security=tls&sni=horikawa.pages.dev&fp=randomized&type=ws&host=horikawa.pages.dev&path=%2F%3Fed%3D2048#horikawa.pages.dev
-vless://3971fb7d-a60e-4f5e-8e2f-d5f401dbcb76@voxine.voxine7974.workers.dev:443?encryption=none&security=tls&sni=voxine.voxine7974.workers.dev&fp=randomized&type=ws&host=voxine.voxine7974.workers.dev&path=%2F%3Fed%3D2048#voxine.voxine7974.workers.dev
+vless://c844d51a-b46a-42f3-b7c8-90d8b172088a@x.nevovo1094.workers.dev:443?encryption=none&security=tls&sni=x.nevovo1094.workers.dev&fp=randomized&type=ws&host=x.nevovo1094.workers.dev&path=%2F%3Fed%3D2048#x.nevovo1094.workers.dev
