@@ -1,2 +1,2 @@
 vless://72e8e513-4a5d-4b88-a9a8-4055b54e3e85@xoloyp.pages.dev:443?encryption=none&security=tls&sni=xoloyp.pages.dev&fp=randomized&type=ws&host=xoloyp.pages.dev&path=%2F%3Fed%3D2048#xoloyp.pages.dev
-vless://3971fb7d-a60e-4f5e-8e2f-d5f401dbcb76@voxine.voxine7974.workers.dev:443?encryption=none&security=tls&sni=voxine.voxine7974.workers.dev&fp=randomized&type=ws&host=voxine.voxine7974.workers.dev&path=%2F%3Fed%3D2048#voxine.voxine7974.workers.dev
+vless://d3f71c17-5354-444f-83eb-699c501d8825@spring-moon-d1f5.racoxeb669.workers.dev:443?encryption=none&security=tls&sni=spring-moon-d1f5.racoxeb669.workers.dev&fp=randomized&type=ws&host=spring-moon-d1f5.racoxeb669.workers.dev&path=%2F%3Fed%3D2048#spring-moon-d1f5.racoxeb669.workers.dev
