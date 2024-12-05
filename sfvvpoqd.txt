@@ -1,2 +1,2 @@
 vless://b5c691b8-64a4-435f-beab-5447b6dec757@sfvvpoqe.pages.dev:443?encryption=none&security=tls&sni=sfvvpoqe.pages.dev&fp=randomized&type=ws&host=sfvvpoqe.pages.dev&path=%2F%3Fed%3D2048#sfvvpoqe.pages.dev
-vless://3971fb7d-a60e-4f5e-8e2f-d5f401dbcb76@voxine.voxine7974.workers.dev:443?encryption=none&security=tls&sni=voxine.voxine7974.workers.dev&fp=randomized&type=ws&host=voxine.voxine7974.workers.dev&path=%2F%3Fed%3D2048#voxine.voxine7974.workers.dev
+vless://c7c07ee1-d3cd-4f3f-b7d4-71fe8a7f8549@white-king-358b.giweyer564.workers.dev:443?encryption=none&security=tls&sni=white-king-358b.giweyer564.workers.dev&fp=randomized&type=ws&host=white-king-358b.giweyer564.workers.dev&path=%2F%3Fed%3D2048#white-king-358b.giweyer564.workers.dev
