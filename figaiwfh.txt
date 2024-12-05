@@ -1,2 +1,2 @@
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@figaiwfh.pages.dev:443?security=tls&sni=figaiwfh.pages.dev&fp=randomized&type=ws&path=/?ed%3D2048&host=figaiwfh.pages.dev&encryption=none#figaiwfh.pages.dev
-vless://3971fb7d-a60e-4f5e-8e2f-d5f401dbcb76@voxine.voxine7974.workers.dev:443?encryption=none&security=tls&sni=voxine.voxine7974.workers.dev&fp=randomized&type=ws&host=voxine.voxine7974.workers.dev&path=%2F%3Fed%3D2048#voxine.voxine7974.workers.dev
+vless://6e3cd962-f3e7-441c-b1be-899a79c45a89@crimson-tooth-227d.lifiwe7127.workers.dev:443?encryption=none&security=tls&sni=crimson-tooth-227d.lifiwe7127.workers.dev&fp=randomized&type=ws&host=crimson-tooth-227d.lifiwe7127.workers.dev&path=%2F%3Fed%3D2048#crimson-tooth-227d.lifiwe7127.workers.dev
