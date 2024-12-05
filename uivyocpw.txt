@@ -1,2 +1,2 @@
 vless://f57b7fbb-cdb4-42c9-ae47-a5b53d0b8b4a@uivyocpw.pages.dev:443?encryption=none&security=tls&sni=uivyocpw.pages.dev&fp=randomized&type=ws&host=uivyocpw.pages.dev&path=%2F%3Fed%3D2048#uivyocpw.pages.dev
-vless://3971fb7d-a60e-4f5e-8e2f-d5f401dbcb76@voxine.voxine7974.workers.dev:443?encryption=none&security=tls&sni=voxine.voxine7974.workers.dev&fp=randomized&type=ws&host=voxine.voxine7974.workers.dev&path=%2F%3Fed%3D2048#voxine.voxine7974.workers.dev
+vless://a60084d7-9d57-477b-b1a3-ee86a2ad758a@lively-heart-ab8b.kiwifaf221.workers.dev:443?encryption=none&security=tls&sni=lively-heart-ab8b.kiwifaf221.workers.dev&fp=randomized&type=ws&host=lively-heart-ab8b.kiwifaf221.workers.dev&path=%2F%3Fed%3D2048#lively-heart-ab8b.kiwifaf221.workers.dev
