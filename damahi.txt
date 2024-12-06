@@ -1,2 +1,2 @@
 vless://545c9e05-81e0-4b8e-876d-5d19d898a346@damahi.pages.dev:443?encryption=none&security=tls&sni=damahi.pages.dev&fp=randomized&type=ws&host=damahi.pages.dev&path=%2F%3Fed%3D2048#damahi.pages.dev
-vless://3971fb7d-a60e-4f5e-8e2f-d5f401dbcb76@voxine.voxine7974.workers.dev:443?encryption=none&security=tls&sni=voxine.voxine7974.workers.dev&fp=randomized&type=ws&host=voxine.voxine7974.workers.dev&path=%2F%3Fed%3D2048#voxine.voxine7974.workers.dev
+vless://944eb7b9-283b-49ee-a321-e6fc34ae36ab@lingering-glitter-40b7.gebayar328.workers.dev:443?encryption=none&security=tls&sni=lingering-glitter-40b7.gebayar328.workers.dev&fp=randomized&type=ws&host=lingering-glitter-40b7.gebayar328.workers.dev&path=%2F%3Fed%3D2048#lingering-glitter-40b7.gebayar328.workers.dev
