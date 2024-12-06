@@ -1,2 +1,2 @@
 vless://84885ff2-8fc3-44c3-86f9-3dfd91de3f3c@yeral.pages.dev:443?encryption=none&security=tls&sni=yeral.pages.dev&fp=randomized&type=ws&host=yeral.pages.dev&path=%2F%3Fed%3D2048#yeral.pages.dev
-vless://3971fb7d-a60e-4f5e-8e2f-d5f401dbcb76@voxine.voxine7974.workers.dev:443?encryption=none&security=tls&sni=voxine.voxine7974.workers.dev&fp=randomized&type=ws&host=voxine.voxine7974.workers.dev&path=%2F%3Fed%3D2048#voxine.voxine7974.workers.dev
+vless://41b00ada-e1c8-4885-aa76-012057ccdb91@patient-thunder-214e.mopey29579.workers.dev:443?encryption=none&security=tls&sni=patient-thunder-214e.mopey29579.workers.dev&fp=randomized&type=ws&host=patient-thunder-214e.mopey29579.workers.dev&path=%2F%3Fed%3D2048#patient-thunder-214e.mopey29579.workers.dev
