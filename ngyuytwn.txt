@@ -1,2 +1,2 @@
 vless://a949fea7-63c2-480f-98c1-c80060fa3c5e@ngyuytwo.pages.dev:443?encryption=none&security=tls&sni=ngyuytwo.pages.dev&fp=randomized&type=ws&host=ngyuytwo.pages.dev&path=%2F%3Fed%3D2048#ngyuytwo.pages.dev
-vless://3971fb7d-a60e-4f5e-8e2f-d5f401dbcb76@voxine.voxine7974.workers.dev:443?encryption=none&security=tls&sni=voxine.voxine7974.workers.dev&fp=randomized&type=ws&host=voxine.voxine7974.workers.dev&path=%2F%3Fed%3D2048#voxine.voxine7974.workers.dev
+vless://dff02950-c234-4255-9e67-cbd8ed411b45@billowing-surf-f422.dahohah661.workers.dev:443?encryption=none&security=tls&sni=billowing-surf-f422.dahohah661.workers.dev&fp=randomized&type=ws&host=billowing-surf-f422.dahohah661.workers.dev&path=%2F%3Fed%3D2048#billowing-surf-f422.dahohah661.workers.dev
