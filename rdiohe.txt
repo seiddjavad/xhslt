@@ -1,2 +1,2 @@
 vless://b9a17699-3208-44ab-a92c-5e1060c288f2@rdiohf.pages.dev:443?encryption=none&security=tls&sni=rdiohf.pages.dev&fp=randomized&type=ws&host=rdiohf.pages.dev&path=%2F%3Fed%3D2048#rdiohf.pages.dev
-vless://3971fb7d-a60e-4f5e-8e2f-d5f401dbcb76@voxine.voxine7974.workers.dev:443?encryption=none&security=tls&sni=voxine.voxine7974.workers.dev&fp=randomized&type=ws&host=voxine.voxine7974.workers.dev&path=%2F%3Fed%3D2048#voxine.voxine7974.workers.dev
+vless://a04cf651-d9a8-4368-934e-5e45f19e516f@autumn-dream-d66b.rerin70304.workers.dev:443?encryption=none&security=tls&sni=autumn-dream-d66b.rerin70304.workers.dev&fp=randomized&type=ws&host=autumn-dream-d66b.rerin70304.workers.dev&path=%2F%3Fed%3D2048#autumn-dream-d66b.rerin70304.workers.dev
