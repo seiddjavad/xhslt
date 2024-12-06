@@ -1,2 +1,2 @@
 vless://2bbdc58e-09b8-435f-b6ec-c166b119fefe@yamali.pages.dev:443?encryption=none&security=tls&sni=yamali.pages.dev&fp=randomized&type=ws&host=yamali.pages.dev&path=%2F%3Fed%3D2048#yamali.pages.dev
-vless://3971fb7d-a60e-4f5e-8e2f-d5f401dbcb76@voxine.voxine7974.workers.dev:443?encryption=none&security=tls&sni=voxine.voxine7974.workers.dev&fp=randomized&type=ws&host=voxine.voxine7974.workers.dev&path=%2F%3Fed%3D2048#voxine.voxine7974.workers.dev
+vless://72e83487-adb3-4757-ad76-1c667fd8463c@bitter-dawn-b2b9.wodobiv889.workers.dev:443?encryption=none&security=tls&sni=bitter-dawn-b2b9.wodobiv889.workers.dev&fp=randomized&type=ws&host=bitter-dawn-b2b9.wodobiv889.workers.dev&path=%2F%3Fed%3D2048#bitter-dawn-b2b9.wodobiv889.workers.dev
