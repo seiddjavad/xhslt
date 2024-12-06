@@ -1,2 +1,2 @@
 vless://203e1408-bef9-468e-8df8-b4bc1c5ef551@wwrnx.pages.dev:443?encryption=none&security=tls&sni=wwrnx.pages.dev&fp=randomized&type=ws&host=wwrnx.pages.dev&path=%2F%3Fed%3D2048#wwrnx.pages.dev
-vless://3971fb7d-a60e-4f5e-8e2f-d5f401dbcb76@voxine.voxine7974.workers.dev:443?encryption=none&security=tls&sni=voxine.voxine7974.workers.dev&fp=randomized&type=ws&host=voxine.voxine7974.workers.dev&path=%2F%3Fed%3D2048#voxine.voxine7974.workers.dev
+vless://65d5716c-6caa-478d-be2e-378bba1cbfea@twilight-waterfall-780f.tahofop796.workers.dev:443?encryption=none&security=tls&sni=twilight-waterfall-780f.tahofop796.workers.dev&fp=randomized&type=ws&host=twilight-waterfall-780f.tahofop796.workers.dev&path=%2F%3Fed%3D2048#twilight-waterfall-780f.tahofop796.workers.dev
