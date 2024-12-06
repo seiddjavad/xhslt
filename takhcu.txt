@@ -1,2 +1,2 @@
 vless://e3f81319-c5d2-4c91-b726-0c6ad05b9e92@takhcu.pages.dev:443?encryption=none&security=tls&sni=takhcu.pages.dev&fp=randomized&type=ws&host=takhcu.pages.dev&path=%2F%3Fed%3D2048#takhcu.pages.dev
-vless://3971fb7d-a60e-4f5e-8e2f-d5f401dbcb76@voxine.voxine7974.workers.dev:443?encryption=none&security=tls&sni=voxine.voxine7974.workers.dev&fp=randomized&type=ws&host=voxine.voxine7974.workers.dev&path=%2F%3Fed%3D2048#voxine.voxine7974.workers.dev
+vless://8400a582-45a3-40d4-b3b2-817660fea26f@divine-dream-646e.heveye7982.workers.dev:443?encryption=none&security=tls&sni=divine-dream-646e.heveye7982.workers.dev&fp=randomized&type=ws&host=divine-dream-646e.heveye7982.workers.dev&path=%2F%3Fed%3D2048#divine-dream-646e.heveye7982.workers.dev
