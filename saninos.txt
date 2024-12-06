@@ -1,2 +1,2 @@
 vless://b36bd940-03b7-406c-89a5-032eac7e7c74@saninou.pages.dev:443?encryption=none&security=tls&sni=saninou.pages.dev&fp=randomized&type=ws&host=saninou.pages.dev&path=%2F%3Fed%3D2048#saninou.pages.dev
-vless://3971fb7d-a60e-4f5e-8e2f-d5f401dbcb76@voxine.voxine7974.workers.dev:443?encryption=none&security=tls&sni=voxine.voxine7974.workers.dev&fp=randomized&type=ws&host=voxine.voxine7974.workers.dev&path=%2F%3Fed%3D2048#voxine.voxine7974.workers.dev
+vless://933a5c99-db22-4ed3-b68f-ba813d820ea5@white-star-1371.kobey67462.workers.dev:443?encryption=none&security=tls&sni=white-star-1371.kobey67462.workers.dev&fp=randomized&type=ws&host=white-star-1371.kobey67462.workers.dev&path=%2F%3Fed%3D2048#white-star-1371.kobey67462.workers.dev
