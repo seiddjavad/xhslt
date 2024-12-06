@@ -1,3 +1,2 @@
 vless://8397772b-c59d-4309-9c1c-709517d25b82@decese.pages.dev:443?encryption=none&security=tls&sni=decese.pages.dev&fp=randomized&type=ws&host=decese.pages.dev&path=%2F%3Fed%3D2048#decese.pages.dev
-vless://3971fb7d-a60e-4f5e-8e2f-d5f401dbcb76@voxine.voxine7974.workers.dev:443?encryption=none&security=tls&sni=voxine.voxine7974.workers.dev&fp=randomized&type=ws&host=voxine.voxine7974.workers.dev&path=%2F%3Fed%3D2048#voxine.voxine7974.workers.dev
 vless://e6e35427-5009-419e-8ed6-3fd6cf97e129@steep-cloud-b73f.relok95176.workers.dev:443?encryption=none&security=tls&sni=steep-cloud-b73f.relok95176.workers.dev&fp=randomized&type=ws&host=steep-cloud-b73f.relok95176.workers.dev&path=%2F%3Fed%3D2048#steep-cloud-b73f.relok95176.workers.dev
