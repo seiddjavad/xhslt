@@ -1,2 +1,2 @@
 vless://d561de7b-c18d-45ab-9218-7111f9eff9c9@hewoj.pages.dev:443?encryption=none&security=tls&sni=hewoj.pages.dev&fp=randomized&type=ws&host=hewoj.pages.dev&path=%2F%3Fed%3D2048#hewoj.pages.dev
-vless://3971fb7d-a60e-4f5e-8e2f-d5f401dbcb76@voxine.voxine7974.workers.dev:443?encryption=none&security=tls&sni=voxine.voxine7974.workers.dev&fp=randomized&type=ws&host=voxine.voxine7974.workers.dev&path=%2F%3Fed%3D2048#voxine.voxine7974.workers.dev
+vless://153dd398-8e6a-4ef9-a230-c5271572ed29@white-sunset-7e57.diwaca8706.workers.dev:443?encryption=none&security=tls&sni=white-sunset-7e57.diwaca8706.workers.dev&fp=randomized&type=ws&host=white-sunset-7e57.diwaca8706.workers.dev&path=%2F%3Fed%3D2048#white-sunset-7e57.diwaca8706.workers.dev
