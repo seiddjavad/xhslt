@@ -1,2 +1,3 @@
 vless://388bc33d-4cf5-44ca-95eb-62be17ccfd4b@uiute.pages.dev:443?encryption=none&security=tls&sni=uiute.pages.dev&fp=randomized&type=ws&host=uiute.pages.dev&path=%2F%3Fed%3D2048#uiute.pages.dev
 vless://860a74fb-d82a-48c2-8a47-3628ef24ad96@rough-voice-7971.nejale4895.workers.dev:443?encryption=none&security=tls&sni=rough-voice-7971.nejale4895.workers.dev&fp=randomized&type=ws&host=rough-voice-7971.nejale4895.workers.dev&path=%2F%3Fed%3D2048#rough-voice-7971.nejale4895.workers.dev
+vless://3971fb7d-a60e-4f5e-8e2f-d5f401dbcb76@voxine.voxine7974.workers.dev:443?encryption=none&security=tls&sni=voxine.voxine7974.workers.dev&fp=randomized&type=ws&host=voxine.voxine7974.workers.dev&path=%2F%3Fed%3D2048#voxine.voxine7974.workers.dev
